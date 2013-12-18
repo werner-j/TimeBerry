@@ -7,6 +7,7 @@ This is still under development.
 
 Quick Start
 -----------
+0. Clone this repository with git (so you have all files locally)
 1. Go to TimeBerry.sh directory
 2. Execute setup-timecapsule.sh script
 3. Follow the instructions
